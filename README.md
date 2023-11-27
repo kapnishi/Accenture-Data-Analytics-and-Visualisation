@@ -9,3 +9,8 @@ Project Understanding
 - Understanding the client and business problem at hand.
 - Identifying the requirements that need to be delivered for this project.
 - Identifying which tasks I should focus on as a Data Analyst.
+
+### Task Two
+Data Cleaning and Modelling
+- Use the data model to identify which datasets will be required to identify the top 5 categories with the largest popularity
+- Clean the datasets and merge them to prepare the data for data analysis
